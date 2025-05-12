@@ -2,6 +2,7 @@ treasures:
   file-version: 1
   hotels:
   - name: flamingo
+    id: H101
     address: 3555 Las Vegas Boulevard South
     image: Flamingohotelyay.jpg
     rooms: 3642
@@ -12,6 +13,7 @@ treasures:
     - Richard R. Stadelman
     geographic-order: Center strip
   - name: Sahara
+    id: H102
     address: 2535 Las Vegas Boulevard South
     image: Sahara Hotel Casino Las Vegas (entrance).jpg
     rooms: 1720
@@ -22,6 +24,7 @@ treasures:
     - Max Maltzman
     geographic-order: North strip
   - name: tropicana
+    id: H103
     address: 3801 Las Vegas Boulevard South
     image: Tropicana Resort & Casino.JPG
     rooms: 1467
@@ -32,6 +35,7 @@ treasures:
     - M. Tony Sherman
     geographic-order: South strip
   - name: The Linq
+    id: H103
     address: 3535 Las Vegas Boulevard South
     image: Linq hotel.jpg
     rooms: 2640
@@ -42,6 +46,7 @@ treasures:
     - Merlin J. Barth
     geographic-order: Center strip
   - name: Caesars Palace
+    id: H104
     address: 3570 Las Vegas Boulevard South
     image: Caesars Palace - Across Bellagio Lake.jpg
     rooms: 3348
@@ -52,6 +57,7 @@ treasures:
     - Jay Sarno
     geographic-order: Center strip
   - name: Circus Circus
+    id: H105
     address: 2880 Las Vegas Boulevard South
     image: Circus circus-1.jpg
     rooms: 3770
@@ -62,6 +68,7 @@ treasures:
     - Rissman and Rissman Associates
     geographic-order: North strip
   - name: Harrah's
+    id: H106
     address: 3475 Las Vegas Boulevard South
     image: HarrahsLV.jpg
     rooms: 2677
@@ -72,6 +79,7 @@ treasures:
     - Rissman and Rissman Associates
     geographic-order: Center strip
   - name: Horseshoe
+    id: H107
     address: 3645 Las Vegas Boulevard South
     image: Ballyshotelcasino-lv cropped.jpg
     rooms: 2814
@@ -82,6 +90,7 @@ treasures:
     - Martin Stern Jr.
     geographic-order: Center strip
   - name: Casino Royale Hotel & Casino
+    id: H108
     address:  3411 Las Vegas Boulevard South
     image: I-1253044640.jpg
     rooms: 152
@@ -90,6 +99,7 @@ treasures:
     theme: European Villa
     geographic-order: Center strip
   - name: The Cromwell
+    id: H108
     address: 3595 Las Vegas Boulevard South
     image: The Cromwell Las Vegas.jpg
     rooms: 188
@@ -98,6 +108,7 @@ treasures:
     theme: Unthemed
     geographic-order: Center strip
   - name: The Mirage
+    id: H109
     address: 3400 Las Vegas Boulevard South
     image: Mirage2010.JPG
     rooms: 3044
@@ -108,6 +119,7 @@ treasures:
     - Joel Bergman
     geographic-order: Center strip
   - name: Excalibur
+    id: H110
     address: 3850 Las Vegas Boulevard South
     image: Excalibur Hotel1.jpg
     rooms: 4032
@@ -116,6 +128,7 @@ treasures:
     theme: Medieval Europe
     geographic-order: South strip
   - name: Luxor
+    id: H111
     address: 3900 Las Vegas Boulevard South
     image: Luxor Hotel.jpg
     rooms: 4407
@@ -126,6 +139,7 @@ treasures:
     - Veldon Simpson
     geographic-order: South strip
   - name: Treasure Island
+    id: H112
     address: 3300 Las Vegas Boulevard South
     image: Treasure-Island.JPG
     rooms: 2884
@@ -137,6 +151,7 @@ treasures:
     - Jon Jerde
     geographic-order: North strip
   - name: MGM Grand
+    id: H112
     address: 3799 Las Vegas Boulevard South
     image: LasVegas-MGMgrand.jpg
     rooms: 6852
@@ -145,6 +160,7 @@ treasures:
     theme: Art Deco, Hollywood
     geographic-order: South strip
   - name: The Strat
+    id: H113
     address: 2000 Las Vegas Boulevard South
     image: Stratosphere Las Vegas - November 2003.jpg
     rooms: 2427
@@ -155,6 +171,7 @@ treasures:
     - Ned Baldwin
     geographic-order: North strip
   - name: Park MGM
+    id: H114
     address: 3770 Las Vegas Boulevard South
     image: Z-3018089717.jpg
     rooms: 3002
@@ -163,6 +180,7 @@ treasures:
     theme: Nature
     geographic-order: outh strip
   - name: New York-New York
+    id: H115
     address: 3790 Las Vegas Boulevard South
     image: Las Vegas NY NY Hotel.jpg
     rooms: 2024
@@ -174,6 +192,7 @@ treasures:
     - Ilia Bezansky
     geographic-order: South strip
   - name: Bellagio
+    id: H116
     address: 3600 Las Vegas Boulevard South
     image: Bellagio-front.jpg
     rooms: 3950
@@ -184,6 +203,7 @@ treasures:
     - Jon Jerde
     geographic-order: Center strip
   - name: Mandalay Bay
+    id: H117
     address: 3950 Las Vegas Boulevard South
     image: MandalayBay2010.JPG
     rooms: 3309
@@ -192,6 +212,7 @@ treasures:
     theme: Tropical
     geographic-order: South strip
   - name: The Venetian
+    id: H118
     address: 3355 Las Vegas Boulevard South
     image: Venetian Las Vegas, NV.jpg
     rooms: 4049
@@ -202,6 +223,7 @@ treasures:
     - KlingStubbins
     geographic-order: North strip
   - name: Paris
+    id: H119
     address: 3655 Las Vegas Boulevard South
     image: ParisLas Vegas.jpg
     rooms: 2916
@@ -214,6 +236,7 @@ treasures:
     - Associates, MBH Architects
     geographic-order: Center strip
   - name: Planet Hollywood
+    id: H120
     address: 3667 Las Vegas Boulevard South
     image: Planet-Hollywood-LV.JPG
     rooms: 2567
@@ -222,6 +245,7 @@ treasures:
     theme: Hollywood
     geographic-order: Center strip
   - name: Wynn
+    id: 121
     address: 3131 Las Vegas Boulevard South
     image: Wynn 2 (2).jpg
     rooms: 2716
@@ -232,6 +256,7 @@ treasures:
     - Marnell Corrao Associates
     geographic-order: North strip
   - name: The Palazzo
+    id: H121
     address: 3325 Las Vegas Boulevard South
     image: The Palazzo at night.JPG
     rooms: 3068
@@ -242,6 +267,7 @@ treasures:
     - HKS, Inc.
     geographic-order: North strip
   - name: Trump International Hotel
+    id: H122
     address: 2000 Fashion Show Drive
     image: Las-Vegas-Trump-Hotel-7776.jpg
     rooms: 1282
@@ -250,6 +276,7 @@ treasures:
     theme: Unthemed
     geographic-order: North strip
   - name: Encore
+    id: H123
     address: 3121 Las Vegas Boulevard South
     image: Encore Las Vegas (2).JPG
     rooms: 2034
@@ -261,6 +288,7 @@ treasures:
     - Michael Hong
     geographic-order: North strip
   - name: CityCenter
+    id: H124
     address: 3730 Las Vegas Boulevard South
     image: Project CityCenter in Las Vegas.jpg
     rooms: 6790
@@ -273,6 +301,7 @@ treasures:
     - Kohn Pedersen Fox
     geographic-order: Center strip
   - name: Cosmopolitan
+    id: H125
     address: 3708 Las Vegas Boulevard South
     image: Cosmopolitan - North - 2010-12-12.JPG
     rooms: 3027
@@ -284,6 +313,7 @@ treasures:
     - Arquitectonica
     geographic-order: Center strip
   - name: Resorts World
+    id: H126
     address: 3000 Las Vegas Boulevard South
     image: Resorts_World_Las_Vegas_May_2022.jpg
     rooms: 3506
@@ -294,6 +324,7 @@ treasures:
     - Steelman Partners
     geographic-order: North strip
   - name: Fontainebleau
+    id: H127
     address: 2777 Las Vegas Boulevard South
     image: Fontainebleau Las Vegas.JPG
     rooms: 3644
@@ -305,6 +336,7 @@ treasures:
     geographic-order: North strip
     under-construction: true
   - name: Dream
+    id: H128
     address: 5051 Las Vegas Boulevard South
     image:
     rooms: 531
