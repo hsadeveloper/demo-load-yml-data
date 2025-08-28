@@ -1,0 +1,53 @@
+{
+  "hotelId": "H123",
+  "rooms": [
+    {
+      "roomType": "Standard King",
+      "capacity": 2,
+      "price": 200,
+      "viewSide": "City View",
+      "available": true,
+        "roomsLeft": 5
+    },
+    {
+      "roomType": "Deluxe Queen",
+      "capacity": 2,
+      "price": 250,
+      "viewSide": "Ocean View",
+      "available": true,
+      "roomsLeft": 2
+    },
+      {
+      "roomType": "Family Suite",
+      "capacity": 4,
+      "price": 400,
+       "viewSide": "Mountain View",
+      "available": false,
+      "roomsLeft": 0,
+      "reservationDate": {
+        "checkIn": "2025-05-20",
+        "checkOut": "2025-05-25"
+      }
+    },
+    {
+      "roomType": "Standard King",
+      "capacity": 2,
+      "price": 200,
+      "viewSide": "Garden View",
+      "available": true,
+      "roomsLeft": 3
+    },
+     {
+      "roomType": "Presidential Suite",
+      "capacity": 2,
+      "price": 1000,
+      "viewSide": "Panoramic View",
+      "available": false,
+      "roomsLeft": 0,
+      "reservationDate": {
+        "checkIn": "2025-05-15",
+        "checkOut": "2025-05-18"
+      }
+    }
+  ]
+}
